@@ -1,0 +1,52 @@
+.heading{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+
+.instructions{
+    font-size: 15px;
+    color: darkturquoise;
+}
+
+body{
+    background-size: cover;
+}
+
+.speed{
+ float: left;
+}
+
+.speeddisk{
+ width: 200px;
+ border-radius: 100px;
+}
+
+#inforspeed{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.heading2{
+    float: right;
+}
+
+.volumedisk{
+    width: 200px;
+    border-radius: 100px;
+}
+
+#inforvolume{
+    font-size: 23px;
+    margin: 15px;
+}
+
+.buttonplay{
+    width: 130px;
+    font-size: 25px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+}
